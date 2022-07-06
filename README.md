@@ -1,27 +1,19 @@
 # ****School_District_Analysis****
 
 ## Overview of Project
-
-School district score analysis pandas Jupyter Notebook
-- to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Once you’ve replaced the math and reading scores, Maria would like you to repeat the school district analysis that you did in this module and write up a report to describe how these changes affected the overall analysis.
-
-The written analysis has the following structure, organization, and formatting:
-
-There is a title, and there are multiple sections (2 pt).
-Each section has a heading and subheading (3 pt).
-Links to images are working, and code is formatted and displayed correctly (2 pt).
-
-Overview of the school district analysis:
-
-The purpose of this analysis is well defined (3 pt).
-
+- To see how the different districts/schools/students fared in relation to their student grades, funding, size, and school type. Using the student and school dataset that has already been combed through and Jupyter notebook, results were created for the analysis of the school district.  
+- The school board has notified that the students_complete.csv file shows evidence of academic dishonesty; specifically, **reading and math grades for Thomas High School ninth graders** appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards.
+  -  To replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. 
+  -  Once the math and reading scores have been replaces, the school district analysis was repeated leading to written report to 
 -----------------
 
-Results: 
+## Results: 
 - How is the district summary affected?
 
 - How is the school summary affected?
+- 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+- 
 - How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
   - Scores by school spending
