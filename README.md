@@ -67,6 +67,6 @@
 ## Summary:
 - The district had very little impact when removing the ninth graders from the over 39,000 pool of students. 
 - Thomas High School remain to be the second best performing school with the ninth graders in the data or with them not included. This indicating that Thomas High School students remain top performers in comparison to the other schools. 
-- In the original data set including the  ninth  graders, the overall passing percentage was 91%, and after excluding the ninth graders, the overall passing percentage was 65%. 
+- In the original data set including the  ninth  graders, the overall passing percentage was 91%, and after excluding the ninth graders, the overall passing percentage was 65%. However, After calculating the overall percentage of 10th-12th grade students passing read from Thomas High School, the percentage jumped back to 90.6%. 
 - Changes to scores by School and size where less than 1%. 
-- Overall, the changes of removing the ninth graders was minimal to most school district analysis excluding the school summary analysis. 
+- Overall, the changes of removing the ninth graders was minimal to most school district analysis excluding the school summary analysis when using NaNs. 
